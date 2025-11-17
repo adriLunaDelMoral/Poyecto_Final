@@ -14,6 +14,5 @@ public class DispositivoRequestDto
 {
 
 	private String nombreDispositivo;
-
 	private String estado;
 }

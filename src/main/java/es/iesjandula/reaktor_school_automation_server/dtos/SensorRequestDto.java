@@ -14,10 +14,7 @@ public class SensorRequestDto
 {
 
 	private String nombreDispositivo;
-
-	private String estado;
-	
+	private String estado;	
     private String valor;
-
     private String tipo;
 }

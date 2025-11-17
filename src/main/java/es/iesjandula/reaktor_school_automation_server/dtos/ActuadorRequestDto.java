@@ -12,8 +12,7 @@ import lombok.Setter;
 public class ActuadorRequestDto
 {
 
-	private String nombreDispositivo;
-	
+	private String nombreDispositivo;	
 	private String estado;
 
 }
