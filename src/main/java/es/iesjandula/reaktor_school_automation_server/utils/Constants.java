@@ -43,4 +43,7 @@ public class Constants
 	public static final String ERR_ORDEN_NULO_VACIO = "El identificador de orden no puede ser nulo ni vacío.";
     public static final String ERR_ORDEN_EXISTE = "La orden ya existe en el sistema.";
     public static final String ERR_ORDEN_NO_EXISTE = "La orden no existe en el sistema.";
+    
+    
+    
 }

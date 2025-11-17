@@ -19,7 +19,7 @@ import lombok.Setter;
 @Entity
 @Table(name="dispositivo")
 @Inheritance(strategy = InheritanceType.JOINED)
-public class Dispositivo
+public abstract class Dispositivo
 {
 
     @Column(length = 25)
